@@ -1,4 +1,7 @@
 # Estudos com MongoDB e Node.js🚀
+<p align="center">
+  <img src="https://github.com/KeevenOliveira/Studies-MongoDB-With-Nodejs/blob/main/src/assets/video.gif">
+</p>
 
 💖 Esse código eu recomendo a todos que estão iniciando com MongoDB junto ao Node.js.
 
